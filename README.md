@@ -1,2 +1,2 @@
 # JAXRSTpl
-REST API Template using Java, JaxRS with proto
+REST API Template using Java, JaxRS
